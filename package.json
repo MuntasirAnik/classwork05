@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MuntasirAnik/classwork05#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "nodemon": "^1.18.0"
   }
